@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mohammad Soltani-Nejad"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Risk Management & Insurance Program at Temple University Fox School of Business. 
+I am a Ph.D. student in Risk Management & Insurance at Temple University Fox School of Business. 
 
 **Current Research Interests:** Financial Institutions, Insurance Economics, Political Economy
