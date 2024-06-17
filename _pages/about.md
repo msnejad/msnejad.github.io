@@ -14,6 +14,9 @@ I am a Ph.D. Candidate in Business Administration, Risk Management & Insurance a
 
 **Work in Progress**:
 
+
+
+
 * Investment Decisions of Insurers in the Face of Demand Shocks
 * Interest Rates, Asset Duration, and Insurers Product Pricing
 * Business Credit Under Creeping Disasters: Evidence from Opioid Epidemic
