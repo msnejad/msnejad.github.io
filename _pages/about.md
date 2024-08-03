@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in Business Administration, Risk Management & Insurance at Temple University Fox School of Business.
 
-**Current Research Interests:** Financial Institutions, Insurance Economics, Credit Risk Management
+**Current Research Interests:** Financial Institutions, Insurance Economics, Financial Regulations, Corporate Finance of Insurance Companies
 
 **Working Papers**:
 
